@@ -21,12 +21,21 @@
 
 Rapid Roll 2 là một trò chơi arcade hấp dẫn được lấy cảm hứng từ phiên bản gốc Rapid Roll. Với sự kết hợp giữa cơ chế chơi cổ điển và các tính năng hiện đại, người chơi sẽ trải qua một cuộc phiêu lưu đầy kịch tính và thách thức.
 
+Mục tiêu: Hãy cố gắng giữ nhân vật trên các nền tảng càng lâu càng tốt và tiêu diệt quái vật để đạt được số điểm cao nhất.
+
 ### 3. Mô tả các chức năng đã cài đặt:
 
-- Di chuyển nhân vật để tránh các chướng ngại vật và thu thập điểm số.
-- Bắn đạn để tiêu diệt quái vật và giành thêm điểm.
-- Giao diện người dùng thân thiện và dễ sử dụng.
-- Thống kê điểm số cao nhất và mạng sống còn lại.
+#### Điều khiển:
+- Nhấn **D** để di chuyển nhân vật sang phải.
+- Nhấn **A** để di chuyển nhân vật sang trái.
+- Nhấn **W** để nhân vật nhảy lên.
+- Nhấn **J** để nhân vật bắn đạn. Khi bắn trúng quái vật, bạn sẽ nhận được +500 điểm.
+
+#### Mẹo chơi:
+- Tránh các nền tảng màu đỏ, quái vật và cả hai lề trên và dưới màn hình. Chạm vào bất kỳ thứ gì trong số này sẽ khiến bạn mất một mạng sống.
+- Nhân vật có tối đa là 5 mạng. Mỗi lần nhân vật chết, bạn sẽ mất một mạng.
+- Thu thập các mảnh trái tim để có thêm mạng sống.
+- Nếu số mạng sống giảm xuống 0, trò chơi sẽ kết thúc.
 
 ### 4. Các kỹ thuật lập trình được sử dụng trong chương trình:
 
