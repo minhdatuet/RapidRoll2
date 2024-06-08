@@ -1,4 +1,11 @@
-## Rapid Roll 2
+# Rapid Roll 2
+
+## **Giới thiệu**
+
++ Họ và tên: Lê Minh Đạt
+
++ Lớp: K66CD - CN1 - UET - VNU
+
 
 ### 1. Hướng dẫn cài đặt game
 
@@ -26,10 +33,5 @@ Rapid Roll 2 là một trò chơi arcade hấp dẫn được lấy cảm hứng
 - **Animation Techniques**: Sử dụng các kỹ thuật animation để tạo hiệu ứng cho nhân vật và quái vật, bao gồm chuyển động, biến dạng và hiệu ứng hấp dẫn khác.
 - **Rigidbody2D Physics**: Sử dụng Rigidbody2D để xử lý va chạm và vật lý game, giúp các đối tượng di chuyển và tương tác một cách tự nhiên và đáng tin cậy.
 
-### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình:
 
-Rapid Roll 2 là kết quả của sự nỗ lực và sáng tạo của đội ngũ phát triển. Trò chơi không chỉ mang lại trải nghiệm giải trí tuyệt vời mà còn là một bước đầu trong việc khám phá và phát triển các tính năng mới. Đội ngũ sẽ tiếp tục cải thiện và mở rộng trò chơi, mang lại thêm nhiều trải nghiệm thú vị cho người chơi trong tương lai.
 
----
-
-Đây là một bản mô tả chi tiết cho dự án Rapid Roll 2, phù hợp để sử dụng trong CV xin internship của bạn. Bạn có thể thêm hoặc chỉnh sửa các phần để phản ánh đầy đủ kỹ năng và kinh nghiệm của mình.
