@@ -12,7 +12,7 @@
 ### 1. Hướng dẫn cài đặt game
 
 Để cài đặt và chạy game, bạn có thể thực hiện các bước sau:
-1. Tải xuống file cài đặt từ [[đường dẫn tải xuống]](https://minhdatuet.itch.io/rapid-roll-2).
+1. Tải xuống file cài đặt từ [[đường dẫn tải xuống]](https://minhdatuet.itch.io/rapid-roll-2?secret=qo47uTBIfnQnsP57SkIp4Bcl8so).
 2. Giải nén file cài đặt.
 3. Chạy file cài đặt và tuân thủ các hướng dẫn trên màn hình để hoàn tất quá trình cài đặt.
 4. Sau khi cài đặt xong, chạy game từ desktop hoặc từ thư mục cài đặt.
