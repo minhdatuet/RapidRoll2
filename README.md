@@ -8,6 +8,7 @@
 
 + Lớp: K66CD - CN1 - UET - VNU
 
+![Screenshot 2024-06-08 195846](https://github.com/minhdatuet/RapidRoll2/assets/100185658/25ffc6e2-973b-4cf5-abfb-ded2e1097daf)
 
 ### 1. Hướng dẫn cài đặt game
 
